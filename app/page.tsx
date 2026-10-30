@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <Link href="/" className="flex items-center gap-3">
             <img
-              src="/LoveCraft%20Heartfelt%20Digital%20Logo.png"
+              src="LoveCraft Heartfelt Digital Logo.png"
               alt="LoveCraft logo"
               className="h-11 w-11 rounded-xl object-contain"
             />
