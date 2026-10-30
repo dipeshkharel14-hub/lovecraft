@@ -280,7 +280,7 @@ export default function HomePage() {
       {/* Closing */}
       <footer className="relative z-10 border-t border-white/[0.08] px-6 py-12 text-center">
         <img
-          src="/LoveCraft%20Heartfelt%20Digital%20Logo.png"
+          src="LoveCraft Heartfelt Digital Logo.png"
           alt="LoveCraft"
           className="mx-auto mb-5 h-16 w-16 object-contain"
         />
