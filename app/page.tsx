@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <Link href="/" className="flex items-center gap-3">
             <img
-              src="/LoveCraft Heartfelt Digital Logo.png"
+              src="/../LoveCraft Heartfelt Digital Logo.png"
               alt="LoveCraft logo"
               className="h-11 w-11 rounded-xl object-contain"
             />
@@ -280,7 +280,7 @@ export default function HomePage() {
       {/* Closing */}
       <footer className="relative z-10 border-t border-white/[0.08] px-6 py-12 text-center">
         <img
-          src="/LoveCraft Heartfelt Digital Logo.png"
+          src="/../LoveCraft Heartfelt Digital Logo.png"
           alt="LoveCraft"
           className="mx-auto mb-5 h-16 w-16 object-contain"
         />
